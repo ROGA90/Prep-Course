@@ -298,8 +298,6 @@ function esVocal(letra){
     mensaje = 'Es vocal'
     return mensaje
   }
-
-
   
 }
 
